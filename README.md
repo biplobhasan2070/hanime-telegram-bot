@@ -15,7 +15,7 @@ The easiest way to deploy this Bot
 
 
 
-<a href="https://colab.research.google.com/github/biplobhasan2070/hanime-telegram-bot/blob/main/Hanime_bot.ipynb"> OPEN IN COLAB </a><br>
+<a align="center" href="https://colab.research.google.com/github/biplobhasan2070/hanime-telegram-bot/blob/main/Hanime_bot.ipynb"> OPEN IN COLAB </a><br>
 
 
 
