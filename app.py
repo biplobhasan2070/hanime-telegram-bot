@@ -21,9 +21,9 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
 
 bot = Client(
     "comic",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN
+    api_id="5310709",
+    api_hash="63a546bdaf18e2cbba99f87b4274fa05",
+    bot_token="5118606335:AAFmCmmpZvqb1uDDTBOMABvXts6b1oO2Puo"
 )
 
 def main():
