@@ -6,7 +6,7 @@ import os
 import subprocess
 import json
 
-MONGO_URL = "mongodb+srv://elianaapi:pranav8935@cluster0.gf5ky.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+MONGO_URL = ""
 CACHE_CHANNEL = -1001848512794
 
 def hentailink(client, callback_query):
