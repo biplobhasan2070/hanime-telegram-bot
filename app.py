@@ -23,7 +23,7 @@ bot = Client(
     "comic",
     api_id="5310709",
     api_hash="63a546bdaf18e2cbba99f87b4274fa05",
-    bot_token="5118606335:AAFmCmmpZvqb1uDDTBOMABvXts6b1oO2Puo"
+    bot_token="5436508081:AAHS16iI32cIFj5Bvv2jaQrk5a2ZgjHW4vE"
 )
 
 def main():
